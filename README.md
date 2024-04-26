@@ -1,2 +1,2 @@
-# azure-devops-helpers-templates
-Some helper templates to use inside azure devops pipelines
+# FLG Azure Pipelines Templates
+Some templates we use to help build our backend and game pipelines.
